@@ -13,7 +13,7 @@ insert into user(name, username, password) values ('i','ply8','ply8');
 select * from user;  
 select count(id) as NumOfUser from user;  
 select * from user order by time desc;  
-select * from user where id between 2 and 4 order by time desc;  
+select * from user order by time desc limit 1,3;  
 select username from user where id=1;  
 select username,password from user where id=1;  
 updata user set name='丁滿' where id=1;  
@@ -23,7 +23,7 @@ delete from user;
 ![image](https://chan-yang2020.github.io/week5-assignment/database&table.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/insert.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/count&order.png)
-![image](https://chan-yang2020.github.io/week5-assignment/between&order.png)
+![image](https://chan-yang2020.github.io/week5-assignment/order_limit.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/select_username&password.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/update&delete.png)
 
