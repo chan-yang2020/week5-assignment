@@ -23,7 +23,7 @@ delete from user;
 ![image](https://chan-yang2020.github.io/week5-assignment/database&table.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/insert.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/count&order.png)
-![image](https://chan-yang2020.github.io/week5-assignment/order_limit.png)
+![image](https://chan-yang2020.github.io/week5-assignment/order_limit.png) 
 ![image](https://chan-yang2020.github.io/week5-assignment/select_username&password.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/update&delete.png)
 
