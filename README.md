@@ -14,9 +14,9 @@ select * from user;
 select count(id) as NumOfUser from user;  
 select * from user order by time desc;  
 select * from user order by time desc limit 1,3;  
-select username from user where id=1;  
-select username,password from user where id=1;  
-updata user set name='丁滿' where id=1;  
+select username from user where username='ply';  
+select username,password from user where username='ply' and password='ply';   
+updata user set name='丁滿' where username='ply';  
 delete from user;  
 
 ![image](https://chan-yang2020.github.io/week5-assignment/describe_table.png)
@@ -24,6 +24,6 @@ delete from user;
 ![image](https://chan-yang2020.github.io/week5-assignment/insert.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/count&order.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/order_limit.png) 
-![image](https://chan-yang2020.github.io/week5-assignment/select_username&password.png)
+![image](https://chan-yang2020.github.io/week5-assignment/select_username.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/update&delete.png)
 
