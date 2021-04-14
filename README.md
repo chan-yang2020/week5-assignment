@@ -24,6 +24,6 @@ delete from user;
 ![image](https://chan-yang2020.github.io/week5-assignment/insert.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/count&order.png)
 ![image](https://chan-yang2020.github.io/week5-assignment/order_limit.png) 
-![image](https://chan-yang2020.github.io/week5-assignment/select_username.png)
-![image](https://chan-yang2020.github.io/week5-assignment/update&delete.png)
-
+![image](https://chan-yang2020.github.io/week5-assignment/select.png)
+![image](https://chan-yang2020.github.io/week5-assignment/update.png)
+![image](https://chan-yang2020.github.io/week5-assignment/delete_.png)
